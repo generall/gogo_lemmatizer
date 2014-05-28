@@ -5,7 +5,7 @@ INSTALLATION:
 =============
 
 # unless you have ./configure file (git repository?) launch `autoconf' first:w
-$ autoconf -fiv
+$ autoconf -f -i -v
 
 $ ./configure
 $ make
